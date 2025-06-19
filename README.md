@@ -3,7 +3,25 @@
 **Project Genesis** is an innovative tool that transforms natural language descriptions into a fully functional static website. Powered by intelligent parsing and code generation, it aims to democratize web development by allowing anyone to create a professional-looking website with simple text input.
 
 ---
+# Pics
+![image](https://github.com/user-attachments/assets/c60ad434-0b17-43b2-990d-9ea5db8a46b2)
+![image](https://github.com/user-attachments/assets/b34367f4-105e-4330-86b8-d8e7250f1cd5)
+![image](https://github.com/user-attachments/assets/6ce1a2bf-836c-48e5-81f1-b59b8f7e936b)
+![image](https://github.com/user-attachments/assets/df1769d9-054f-46d5-8601-47c70ef00b8d)
+![image](https://github.com/user-attachments/assets/759ac7b5-16da-4726-86d1-bad7a5e7a35f)
+![image](https://github.com/user-attachments/assets/494f5cca-144c-4087-85f5-01f52e5bc419)
+![image](https://github.com/user-attachments/assets/982b67a5-cd72-40f6-849d-1520a72888c0)
+![image](https://github.com/user-attachments/assets/f9cb2cf7-f783-4269-8477-883671042bf7)
+![image](https://github.com/user-attachments/assets/6403dee7-24a9-437b-8fc4-0ddc9ab3148b)
 
+---
+# Output
+![image](https://github.com/user-attachments/assets/f623e071-83b2-4b58-aa29-89f653448478)
+![image](https://github.com/user-attachments/assets/d478e125-c2eb-40b7-b26b-2be29791f0c3)
+![image](https://github.com/user-attachments/assets/07c394f0-ade2-4da9-96fe-8e3cf4e5c798)
+![image](https://github.com/user-attachments/assets/e7a35756-38ff-414d-8b50-beb25270744d)
+
+---
 ### ✨ Features
 
 * **Natural Language Understanding:** Describe your desired website in plain English.
