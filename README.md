@@ -68,13 +68,6 @@ The full vision for Project Genesis includes advanced AI capabilities:
 
 ---
 
-Tuyệt vời! Thêm một giấy phép là một bước quan trọng để xác định cách người khác có thể sử dụng mã của bạn.
-
-Thêm Giấy phép MIT vào Project Genesis
-Để thêm Giấy phép MIT vào dự án của bạn, bạn cần tạo một tệp mới có tên LICENSE (không có phần mở rộng) trong thư mục gốc của dự án và dán nội dung giấy phép vào đó.
-
-Dưới đây là nội dung của Giấy phép MIT mà bạn có thể dán vào tệp LICENSE của mình:
-
 ## MIT License
 
 Copyright (c) [2025] [UTH]
